@@ -122,10 +122,10 @@ private val LegacyTypography = Typography(
 // Font option for Kannada
 val BalooTamma2 = FontFamily(
     Font(R.font.baloo_tamma_2_regular, FontWeight.W400),
-    Font(R.font.baloo_tamma_2_medium, FontWeight.W500),
-    Font(R.font.baloo_tamma_2_semibold, FontWeight.W600),
-    Font(R.font.baloo_tamma_2_bold, FontWeight.W700),
-    Font(R.font.baloo_tamma_2_heavy, FontWeight.W800),
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W500),
+    Font(R.font.baloo_tamma_2_medium, FontWeight.W600),
+    Font(R.font.baloo_tamma_2_medium, FontWeight.W700),
+    Font(R.font.baloo_tamma_2_semibold, FontWeight.W800),
 )
 
 private val BalooTypography = BitChordTypography.withFamily(BalooTamma2)
