@@ -119,6 +119,17 @@ private val LegacyTypography = Typography(
     labelSmall = TextStyle(fontWeight = FontWeight.W600, fontSize = 11.sp),
 ).withFamily(SFProDisplayLegacy)
 
+// Font option for Kannada
+val BalooTamma2 = FontFamily(
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W400),
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W500),
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W600),
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W700),
+    Font(R.font.baloo_tamma_2_regular, FontWeight.W800),
+)
+
+private val BalooTypography = BitChordTypography.withFamily(BalooTamma2)
+
 /** Applies [family] to every style in the scale, so nothing is left on Roboto. */
 private fun Typography.withFamily(family: FontFamily) = Typography(
     displayLarge = displayLarge.copy(fontFamily = family),
