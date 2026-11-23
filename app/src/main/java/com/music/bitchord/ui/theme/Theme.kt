@@ -160,6 +160,7 @@ fun BitChordTheme(
         typography = when (font) {
             AppFont.DEFAULT -> BitChordTypography
             AppFont.LEGACY -> LegacyTypography
+            AppFont.BALOO -> BalooTypography
         },
         content = content,
     )
