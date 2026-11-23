@@ -2283,6 +2283,7 @@ private fun AppFont.localizedLabel(): String = stringResource(
     when (this) {
         AppFont.DEFAULT -> R.string.font_default
         AppFont.LEGACY -> R.string.font_legacy
+        AppFont.BALOO -> R.string.font_baloo            
     },
 )
 
@@ -2292,6 +2293,7 @@ private fun AppFont.description(): String = stringResource(
     when (this) {
         AppFont.DEFAULT -> R.string.font_default_subtitle
         AppFont.LEGACY -> R.string.font_legacy_subtitle
+        AppFont.BALOO -> R.string.font_baloo_subtitle   
     },
 )
 
