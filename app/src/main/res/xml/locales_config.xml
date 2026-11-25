@@ -9,6 +9,7 @@
     <locale android:name="id" />
     <locale android:name="hi" />
     <locale android:name="ja" />
+    <locale android:name="kn" />
     <locale android:name="ru" />
     <locale android:name="zh" />
     <locale android:name="zh-CN" />
@@ -19,5 +20,5 @@
     <locale android:name="th" />
     <locale android:name="ko" />
     <locale android:name="vi" />
-
+    
 </locale-config>
