@@ -1,1 +1,96 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analysis_complete">ವಿಶ್ಲೇಷಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="analysis_in_progress">ವಿಶ್ಲೇಷಣೆ ನಡೆಯುತ್ತಿದೆ…</string>
+    <string name="analysis_refining">ವಿಶ್ಲೇಷಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ, ಸುಧಾರಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="audio_output">ಆಡಿಯೊ ಔಟ್‌ಪುಟ್</string>
+    <string name="audio_output_playing">ಇಲ್ಲಿ ಪ್ಲೇ ಆಗುತ್ತಿದೆ</string>
+    <string name="audio_pipeline">ಆಡಿಯೊ ಪೈಪ್‌ಲೈನ್</string>
+    <string name="automix_analysis_status">ಆಟೊಮಿಕ್ಸ್ · ಈ ಹಾಡು: %1$s · ಮುಂದಿನದು: %2$s</string>
+    <string name="automix_not_supported_video">ವಿಡಿಯೊ ಹಾಡುಗಳಲ್ಲಿ ಆಟೊಮಿಕ್ಸ್ ಬೆಂಬಲಿತವಲ್ಲ</string>
+    <string name="automix_stopped_in_party">ಒಟ್ಟಿಗೆ ಕೇಳುವಾಗ ಆಟೊಮಿಕ್ಸ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="autoplay">ಆಟೊಪ್ಲೇ</string>
+    <string name="autoplay_empty_description">ಇದೇ ರೀತಿಯ ಸಂಗೀತ ಮುಂದುವರಿಯುತ್ತದೆ</string>
+    <string name="autoplay_off">ಆಟೊಪ್ಲೇ ಆಫ್</string>
+    <string name="autoplay_on">ಆಟೊಪ್ಲೇ ಆನ್</string>
+    <string name="autoplay_queue_description">ಮುಂದೆ ಪ್ಲೇ ಮಾಡಲು ಆಯ್ಕೆ ಮಾಡಿದ ಇದೇ ರೀತಿಯ ಸಂಗೀತ</string>
+    <string name="bit_depth">%1$d-ಬಿಟ್</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="cast">ಕಾಸ್ಟ್</string>
+    <string name="cast_casting">ಕಾಸ್ಟ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="cast_connecting">ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="cast_row_subtitle">Chromecast ಮತ್ತು Google Cast ಸ್ಪೀಕರ್‌ಗಳು</string>
+    <string name="channel_count">%1$d ಚಾನಲ್‌ಗಳು</string>
+    <string name="choose_lyrics_provider">ಸಾಹಿತ್ಯದ ಮೂಲವನ್ನು ಆರಿಸಿ</string>
+    <string name="clear">ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="close_lyrics">ಸಾಹಿತ್ಯ ಮುಚ್ಚಿ</string>
+    <string name="data_saver">ಡೇಟಾ ಉಳಿತಾಯ</string>
+    <string name="decrease_lyrics_offset">ಸಾಹಿತ್ಯದ ಆಫ್‌ಸೆಟ್ ಕಡಿಮೆ ಮಾಡಿ</string>
+    <string name="downgraded_from">↓ %1$s ನಿಂದ</string>
+    <string name="drag_to_reorder">ಕ್ರಮ ಬದಲಿಸಲು ಎಳೆಯಿರಿ</string>
+    <string name="failed">ವಿಫಲವಾಗಿದೆ</string>
+    <string name="hi_res_lossless">ಹೈ-ರೆಸ್ ಲಾಸ್‌ಲೆಸ್</string>
+    <string name="high_quality">ಉತ್ತಮ ಗುಣಮಟ್ಟ</string>
+    <string name="high_quality_upgrading">ಉತ್ತಮ ಗುಣಮಟ್ಟಕ್ಕೆ ಅಪ್‌ಗ್ರೇಡ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="increase_lyrics_offset">ಸಾಹಿತ್ಯದ ಆಫ್‌ಸೆಟ್ ಹೆಚ್ಚಿಸಿ</string>
+    <string name="instrumental">ವಾದ್ಯ ಸಂಗೀತ</string>
+    <string name="like">ಇಷ್ಟ</string>
+    <string name="listen_together">ಒಟ್ಟಿಗೆ ಕೇಳಿ</string>
+    <string name="listen_together_away">ದೂರದಲ್ಲಿದ್ದಾರೆ — ಅವರ ಸ್ಥಾನ ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ</string>
+    <string name="listen_together_host">ಹೋಸ್ಟ್</string>
+    <string name="listen_together_in_party">ಪಾರ್ಟಿಯಲ್ಲಿ · %1$s</string>
+    <string name="listen_together_jam">%1$s ಅವರ ಜ್ಯಾಮ್</string>
+    <string name="listen_together_jam_unnamed">ಒಟ್ಟಿಗೆ ಕೇಳುತ್ತಿದ್ದಾರೆ</string>
+    <string name="listen_together_manage">ನಿರ್ವಹಿಸಿ</string>
+    <string name="listen_together_open">ಒಟ್ಟಿಗೆ ಕೇಳಿ</string>
+    <string name="listen_together_open_count">ಒಟ್ಟಿಗೆ ಕೇಳುತ್ತಿದ್ದಾರೆ · %1$d</string>
+    <string name="listen_together_you">ನೀವು</string>
+    <string name="mixing">ಮಿಶ್ರಣಗೊಳಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="lossless">ಲಾಸ್‌ಲೆಸ್</string>
+    <string name="lyrics_already_in_language">ಈ ಸಾಹಿತ್ಯ ಈಗಾಗಲೇ %1$s ಭಾಷೆಯಲ್ಲಿದೆ</string>
+    <string name="lyrics_already_romanized">ಈ ಸಾಹಿತ್ಯ ಈಗಾಗಲೇ ಲ್ಯಾಟಿನ್ ಅಕ್ಷರಗಳಲ್ಲಿದೆ</string>
+    <string name="lyrics_by">%1$s ಅವರ ಸಾಹಿತ್ಯ</string>
+    <string-array name="lyrics_intro_lines">
+        <item>ಬೀಟ್ ಶುರುವಾಗುತ್ತಿದೆ</item>
+        <item>ಹಾಡು ಆರಂಭವಾಗುತ್ತಿದೆ</item>
+        <item>ಸಿದ್ಧತೆ ನಡೆಯುತ್ತಿದೆ</item>
+        <item>ಮೂಡ್ ಸಿದ್ಧವಾಗುತ್ತಿದೆ</item>
+        <item>ಮೊದಲು ಬೇಸ್, ನಂತರ ಪದಗಳು</item>
+        <item>ಸ್ವಲ್ಪ ಕಾಯಿರಿ</item>
+        <item>ಸಂಗೀತದ ಏರಿಳಿತವನ್ನು ಅನುಭವಿಸಿ</item>
+        <item>ಸದ್ಯಕ್ಕೆ ಸಂಗೀತದ ಲಯ ಮಾತ್ರ</item>
+        <item>ಮುಖ್ಯ ಸಾಲು ಬರಲಿದೆ</item>
+        <item>ಸಂಗೀತಕ್ಕೆ ಸ್ವಲ್ಪ ಅವಕಾಶ ನೀಡಿ</item>
+        <item>ಈಗ ಗಾಯನದ ಸರದಿ</item>
+        <item>ಮೊದಲ ಸ್ವರಗಳು ಕೇಳಿಬಂದಿವೆ</item>
+    </string-array>
+    <string-array name="lyrics_loading_lines">
+        <item>ಸಾಹಿತ್ಯವನ್ನು ತರಲಾಗುತ್ತಿದೆ</item>
+        <item>ಪದಗಳನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸಾಲುಗಳನ್ನು ತರಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸಾಹಿತ್ಯ ಲೋಡ್ ಆಗುತ್ತಿದೆ</item>
+        <item>ಸಾಹಿತ್ಯದ ಹಾಳೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಹಾಡಿನ ಪುಸ್ತಕ ಹುಡುಕಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸಾಹಿತ್ಯದ ಸಾಲುಗಳನ್ನು ಜೋಡಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಪದಗಳು ಬರಲಿವೆ</item>
+        <item>ಆರ್ಕೈವ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸರಿಯಾದ ಪದಗಳನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸಾಹಿತ್ಯ ಸಿದ್ಧವಾಗುತ್ತಿದೆ</item>
+        <item>ಪದಗಳು ಬಹುತೇಕ ಸಿಕ್ಕಿವೆ</item>
+    </string-array>
+    <string name="lyrics_not_available">ಸಾಹಿತ್ಯ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="lyrics_offset">ಸಾಹಿತ್ಯದ ಆಫ್‌ಸೆಟ್</string>
+    <string name="lyrics_offset_description">ಧನಾತ್ಮಕ ಮೌಲ್ಯಗಳು ಸಾಹಿತ್ಯವನ್ನು ತಡವಾಗಿ ತೋರಿಸುತ್ತವೆ</string>
+    <string name="lyrics_offset_reset">ಮರುಹೊಂದಿಸಿ</string>
+    <string name="lyrics_provider_current">ಪ್ರಸ್ತುತ ಮೂಲ</string>
+    <string name="lyrics_provider_fetching">ಸಾಹಿತ್ಯವನ್ನು ತರಲಾಗುತ್ತಿದೆ…</string>
+    <string name="lyrics_provider_found">ಸಾಹಿತ್ಯ ಸಿಕ್ಕಿದೆ · ಬಳಸಲು ತಟ್ಟಿ</string>
+    <string name="lyrics_provider_not_fetched">ತರಿಸಲು ತಟ್ಟಿ</string>
+    <string name="lyrics_provider_not_found">ಸಾಹಿತ್ಯ ಸಿಗಲಿಲ್ಲ</string>
+    <string name="lyrics_romanization_unavailable">ಈ ಸಾಹಿತ್ಯಕ್ಕೆ ರೋಮನೀಕರಣ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="lyrics_romanized">ರೋಮನೀಕೃತ ಉಚ್ಚಾರಣೆ</string>
+    <string name="lyrics_saved_with_download">ಈ ಡೌನ್‌ಲೋಡ್ ಜೊತೆಗೆ ಸಾಹಿತ್ಯವನ್ನು ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="lyrics_share_pick_limit">ಕಾರ್ಡ್ ತುಂಬಿದೆ</string>
+    <string name="lyrics_translated_to">%1$s ಗೆ ಅನುವಾದಿಸಲಾಗಿದೆ</string>
+    <string name="lyrics_translation_unavailable">ಅನುವಾದ ಈಗ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="medium_quality">ಮಧ್ಯಮ ಗುಣಮಟ್ಟ</string>
