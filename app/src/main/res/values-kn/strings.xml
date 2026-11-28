@@ -379,7 +379,7 @@
 <string name="artist_signatures_subtitle">Apple Music ನಲ್ಲಿ ಶೀರ್ಷಿಕೆ ಲೋಗೋ ಇಲ್ಲದಿದ್ದಾಗ ಕೈಬರಹದ ಸಹಿಯನ್ನು ತೋರಿಸುತ್ತದೆ</string>
 <string name="artist_signatures_url">ಸಹಿ API URL</string>
 <string name="artist_signatures_url_hint">https://signatures.example.com</string>
-<string name="artist_signatures_unconfigured">ಕಾನ್ಫಿಗರ್ ಮಾಡಲಾಗಿಲ್ಲ — API URL ಹೊಂದಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="artist_signatures_unconfigured">ಕಾನ್ಫಿಗರ್ ಮಾಡಲಾಗಿಲ್ಲ — API URL ಹೊಂದಿಸಲು ತಟ್ಟಿ</string>
 <string name="artist_signatures_test_failed">ಆ URL ನಲ್ಲಿ API ಅನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
 <string name="synced_lyrics">ಸಿಂಕ್ ಆದ ಸಾಹಿತ್ಯ</string>
 <string name="synced_lyrics_subtitle">ಹಾಡಿದಂತೆ ಪ್ಲೇಯರ್‌ನಲ್ಲಿ ಪದಗಳನ್ನು ಬೆಳಗಿಸುತ್ತದೆ</string>
@@ -734,9 +734,9 @@
 <string name="status_online">ಆನ್‌ಲೈನ್</string>
 <string name="status_online_detail">ಹಸಿರು ಚುಕ್ಕೆ</string>
 <string name="subscribers">%1$s ಚಂದಾದಾರರು</string>
-<string name="tap_to_connect">ಸಂಪರ್ಕಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
-<string name="tap_to_sign_in">ಸೈನ್ ಇನ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
-<string name="tap_to_sign_in_discord">Discord ನೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="tap_to_connect">ಸಂಪರ್ಕಿಸಲು ತಟ್ಟಿ</string>
+<string name="tap_to_sign_in">ಸೈನ್ ಇನ್ ಮಾಡಲು ತಟ್ಟಿ</string>
+<string name="tap_to_sign_in_discord">Discord ನೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲು ತಟ್ಟಿ</string>
 <string name="token">ಟೋಕನ್</string>
 <string name="turn_off_timer">ಟೈಮರ್ ಆಫ್ ಮಾಡಿ</string>
 <string name="undo_dislike">ಇಷ್ಟವಿಲ್ಲ ರದ್ದುಮಾಡಿ</string>
@@ -819,7 +819,7 @@
 <string name="share_my_replay">ನನ್ನ ರೀಪ್ಲೇ ಹಂಚಿಕೊಳ್ಳಿ</string>
 <string name="share_your_lyrics">ನಿಮ್ಮ ಸಾಹಿತ್ಯ ಕಾರ್ಡ್ ಕಳುಹಿಸಿ</string>
 <string name="share_your_replay">ನಿಮ್ಮ ರೀಪ್ಲೇ ಹಂಚಿಕೊಳ್ಳಿ</string>
-<string name="tap_share_for_picture">ಚಿತ್ರವನ್ನು ರಚಿಸಲು ಹಂಚಿಕೊಳ್ಳಿ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+<string name="tap_share_for_picture">ಚಿತ್ರವನ್ನು ರಚಿಸಲು ಹಂಚಿಕೊಳ್ಳಿ ತಟ್ಟಿ.</string>
 <string name="top_album">ಟಾಪ್ ಆಲ್ಬಂ</string>
 <string name="top_artist">ಟಾಪ್ ಕಲಾವಿದ</string>
 <string name="top_genre">ಟಾಪ್ ಪ್ರಕಾರ</string>
@@ -895,8 +895,8 @@
 <string name="downloading">ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
 <string name="delete_playlist">ಪ್ಲೇಪಟ್ಟಿ ಅಳಿಸಿ</string>
 <string name="delete_download">ಡೌನ್‌ಲೋಡ್ ಅಳಿಸಿ</string>
-<string name="delete_playlist_confirmation">“%1$s” ಅಳಿಸುವುದೇ? ದೃಢೀಕರಿಸಲು ಮತ್ತೆ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
-<string name="delete_download_confirmation">ಈ ಸಾಧನದಿಂದ “%1$s” ತೆಗೆದುಹಾಕುವುದೇ? ದೃಢೀಕರಿಸಲು ಮತ್ತೆ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+<string name="delete_playlist_confirmation">“%1$s” ಅಳಿಸುವುದೇ? ದೃಢೀಕರಿಸಲು ಮತ್ತೆ ತಟ್ಟಿ.</string>
+<string name="delete_download_confirmation">ಈ ಸಾಧನದಿಂದ “%1$s” ತೆಗೆದುಹಾಕುವುದೇ? ದೃಢೀಕರಿಸಲು ಮತ್ತೆ ತಟ್ಟಿ.</string>
 <string name="running">ಚಾಲನೆಯಲ್ಲಿದೆ</string>
 <string name="version_alignment_status">%1$s · %2$s</string>
 <string name="version_cut_not_fetched">ತರಲಾಗಿಲ್ಲ</string>
@@ -924,7 +924,7 @@
 <string name="swipe_adds_to_queue">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಸ್ವೈಪ್ ಮಾಡುವುದರಿಂದ ಹಾಡು ಸರದಿಯ ಕೊನೆಗೆ ಸೇರುತ್ತದೆ</string>
 <string name="import_backup_warning">ಇದು ಈ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಕೇಳುವಿಕೆಯ ಇತಿಹಾಸವನ್ನು ಫೈಲ್‌ನ ವಿಷಯಗಳೊಂದಿಗೆ ಬದಲಾಯಿಸುತ್ತದೆ. ನೀವು ಅದನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದರೆ ಮೊದಲು ಪ್ರಸ್ತುತ ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಿ.</string>
 <string name="youtube_music_account">YouTube Music ಖಾತೆ</string>
-<string name="tap_to_sign_in_google">Google ನೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="tap_to_sign_in_google">Google ನೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲು ತಟ್ಟಿ</string>
 <string name="export_succeeded">ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು %1$s ರಫ್ತು ಮಾಡಲಾಗಿದೆ</string>
 <string name="export_failed">ರಫ್ತು ವಿಫಲವಾಗಿದೆ: %1$s</string>
 <string name="import_succeeded">v%2$s ನಿಂದ %1$s ಆಮದು ಮಾಡಲಾಗಿದೆ</string>
@@ -971,9 +971,9 @@
 <string name="listen_together_server">ಪಾರ್ಟಿ ಸರ್ವರ್</string>
 <string name="listen_together_server_online">ಆನ್‌ಲೈನ್ · %1$d ms</string>
 <string name="listen_together_server_online_fallback">ಆನ್‌ಲೈನ್ (ಡೀಫಾಲ್ಟ್ ಫಾಲ್‌ಬ್ಯಾಕ್) · %1$d ms</string>
-<string name="listen_together_server_offline">ಪ್ರಸ್ತುತ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
+<string name="listen_together_server_offline">ಪ್ರಸ್ತುತ ಸಂಪರ್ಕಿಸಲು ಆಗುತ್ತಿಲ್ಲ</string>
 <string name="listen_together_server_checking">ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…</string>
-<string name="listen_together_server_unknown">ಪರಿಶೀಲಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="listen_together_server_unknown">ಪರಿಶೀಲಿಸಲು ತಟ್ಟಿ</string>
 <string name="listen_together_custom_server">ನಿಮ್ಮದೇ ಸರ್ವರ್ ಬಳಸಿ</string>
 <string name="listen_together_custom_server_footer">ಡೀಫಾಲ್ಟ್ ಸರ್ವರ್ ಬಳಸಲು ಇದನ್ನು ಖಾಲಿ ಬಿಡಿ. ನೀವು ನಿಮ್ಮದೇ ಪ್ರತಿಯನ್ನು ನಡೆಸುತ್ತಿದ್ದರೆ, ಪಾರ್ಟಿಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಬ್ಬರೂ ಅದೇ ಸರ್ವರ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿರಬೇಕು.</string>
 <string name="listen_together_using_default">ಡೀಫಾಲ್ಟ್ ಸರ್ವರ್ ಬಳಸಲಾಗುತ್ತಿದೆ</string>
@@ -1072,7 +1072,7 @@
 <string name="download_liked_songs">ಇಷ್ಟಪಟ್ಟ ಹಾಡುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
 <string name="download_liked_songs_subtitle">ನಿಮ್ಮ ಇಷ್ಟಪಟ್ಟ ಸಂಗೀತ ಮತ್ತು ಇಂದಿನಿಂದ ನೀವು ಇಷ್ಟಪಡುವ ಪ್ರತಿಯೊಂದು ಹಾಡನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ</string>
 <string name="playlist_sync_ask_title">%1$s ನಲ್ಲಿ ಹೊಸ ಹಾಡುಗಳು: %2$d</string>
-<string name="playlist_sync_ask_text">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+<string name="playlist_sync_ask_text">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ತಟ್ಟಿ</string>
 <string name="playlist_sync_done_title">%1$s ಗೆ ಸೇರಿಸಲಾಗಿದೆ: %2$d</string>
 <string name="playlist_updates_channel">ಪ್ಲೇಪಟ್ಟಿ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
 <string name="output_precision">ಔಟ್‌ಪುಟ್ ನಿಖರತೆ</string>
@@ -1169,7 +1169,7 @@
 <string name="source_downloads_off">ಸ್ಟ್ರೀಮಿಂಗ್ ಮಾತ್ರ</string>
 <string name="lossless_output_permission">ಬ್ಲೂಟೂತ್ ಕೋಡೆಕ್ ಪರಿಶೀಲಿಸಿ</string>
 <string name="lossless_output_permission_denied">ಹತ್ತಿರದ ಸಾಧನಗಳ ಅನುಮತಿ ಆಫ್ ಆಗಿದೆ</string>
-<string name="lossless_output_permission_denied_detail">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ ಮತ್ತು ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಅನುಮತಿಸಿ — ಅದಿಲ್ಲದೆ ನಾವು ನಿಮ್ಮ ಬ್ಲೂಟೂತ್ ಕೋಡೆಕ್ ಅನ್ನು ಓದಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+<string name="lossless_output_permission_denied_detail">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಲು ತಟ್ಟಿ ಮತ್ತು ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಅನುಮತಿಸಿ — ಅದಿಲ್ಲದೆ ನಾವು ನಿಮ್ಮ ಬ್ಲೂಟೂತ್ ಕೋಡೆಕ್ ಅನ್ನು ಓದಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
 <string name="lossless_output_permission_detail">LDAC, LHDC ಅಥವಾ Samsung UHQ ಹೆಡ್‌ಫೋನ್‌ಗಳು ಲಾಸ್‌ಲೆಸ್-ಮಾತ್ರ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಅನುಮತಿಸಿ</string>
 <string name="cached_songs">ಕ್ಯಾಶ್ ಮಾಡಿದ ಹಾಡುಗಳು</string>
 <string name="cached_songs_subtitle">ಹಾಡುಗಳ ಕ್ಯಾಶ್‌ನಲ್ಲಿರುವ YouTube ಮತ್ತು JioSaavn ಹಾಡುಗಳು</string>
@@ -1252,9 +1252,9 @@
 <string name="wear_os_update">ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</string>
 <string name="wear_os_install_title">ನಿಮ್ಮ ವಾಚ್‌ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
 <string name="wear_os_step_wifi">ಈ ಫೋನ್ ಇರುವ ಅದೇ Wi-Fi ಗೆ ನಿಮ್ಮ ವಾಚ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
-<string name="wear_os_step_developer">ವಾಚ್‌ನಲ್ಲಿ Developer options ಆನ್ ಮಾಡಿ. Galaxy Watch: Settings → About watch → Software information → Software version ಅನ್ನು ಐದು ಬಾರಿ ಟ್ಯಾಪ್ ಮಾಡಿ. Pixel Watch: Settings → System → About → Build number ಅನ್ನು ಏಳು ಬಾರಿ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+<string name="wear_os_step_developer">ವಾಚ್‌ನಲ್ಲಿ Developer options ಆನ್ ಮಾಡಿ. Galaxy Watch: Settings → About watch → Software information → Software version ಅನ್ನು ಐದು ಬಾರಿ ತಟ್ಟಿ. Pixel Watch: Settings → System → About → Build number ಅನ್ನು ಏಳು ಬಾರಿ ತಟ್ಟಿ.</string>
 <string name="wear_os_step_debugging">Developer options ನಲ್ಲಿ, ADB debugging ಮತ್ತು Wireless debugging ಅನ್ನು ಆನ್ ಮಾಡಿ.</string>
-<string name="wear_os_step_pair">Pair new device ಟ್ಯಾಪ್ ಮಾಡಿ, ನಂತರ ವಾಚ್ ತೋರಿಸುವ ಆರು-ಅಂಕಿಯ ಕೋಡ್ ನಮೂದಿಸಿ.</string>
+<string name="wear_os_step_pair">Pair new device ತಟ್ಟಿ, ನಂತರ ವಾಚ್ ತೋರಿಸುವ ಆರು-ಅಂಕಿಯ ಕೋಡ್ ನಮೂದಿಸಿ.</string>
 <string name="wear_os_searching">Wi-Fi ನಲ್ಲಿ ನಿಮ್ಮ ವಾಚ್ ಅನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ…</string>
 <string name="wear_os_found">ನಿಮ್ಮ ವಾಚ್ ಸಿಕ್ಕಿದೆ</string>
 <string name="wear_os_pairing">ಜೋಡಿಸಲಾಗುತ್ತಿದೆ…</string>
@@ -1304,7 +1304,7 @@
 <string name="drive_device_synced">%1$s ಸಿಂಕ್ ಆಗಿದೆ</string>
 <string name="drive_devices_checking">ಸಾಧನಗಳನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ…</string>
 <string name="drive_devices_failed">ಸಾಧನಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ: %1$s</string>
-<string name="drive_devices_footer">ಪ್ರತಿ ಸಾಧನದಿಂದ ಕೇಳುವಿಕೆಯು ರೀಪ್ಲೇಯಲ್ಲಿ ಸೇರುತ್ತದೆ. ಸಾಧನದ ಬ್ಯಾಕಪ್ ಅಳಿಸಲು ಅದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+<string name="drive_devices_footer">ಪ್ರತಿ ಸಾಧನದಿಂದ ಕೇಳುವಿಕೆಯು ರೀಪ್ಲೇಯಲ್ಲಿ ಸೇರುತ್ತದೆ. ಸಾಧನದ ಬ್ಯಾಕಪ್ ಅಳಿಸಲು ಅದನ್ನು ತಟ್ಟಿ.</string>
 <string name="drive_devices_header">ಸಾಧನಗಳು</string>
 <string name="drive_devices_none">ಈ ಖಾತೆಯಲ್ಲಿ ಇನ್ನೂ ಯಾವುದೇ ಸಾಧನಗಳಿಲ್ಲ</string>
 <string name="drive_devices_none_other">ಈ ಖಾತೆಯಲ್ಲಿ ಇನ್ನೂ ಯಾವುದೇ ಇತರ ಸಾಧನಗಳಿಲ್ಲ</string>
