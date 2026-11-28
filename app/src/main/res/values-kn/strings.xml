@@ -178,7 +178,7 @@
 <string name="personalized_recommendations">ನಿಮಗಾಗಿ ವೈಯಕ್ತಿಕಗೊಳಿಸಿದ ಶಿಫಾರಸು ಪಡೆಯಿರಿ</string>
 <string name="play_next">ಮುಂದೆ ಪ್ಲೇ ಮಾಡಿ</string>
 <string name="queue">ಸರದಿ</string>
-<string name="source_unrecognised">ಆ ಲಿಂಕ್ ಏನೆಂದು BitChord ಗೆ ಗುರುತಿಸಲು ಆಗಲಿಲ್ಲ</string>
+<string name="source_unrecognised">ಆ ಲಿಂಕ್ ಏನೆಂದು BitChord ಗೆ ಗೊತ್ತಾಗಲಿಲ್ಲ</string>
 <string name="source_already_added">ಈಗಾಗಲೇ %1$s ಆಗಿ ಸೇರಿಸಿದೆ</string>
 <string name="source_setup_required">ಸೆಟಪ್ ಮುಗಿಸಲು ತಟ್ಟಿ</string>
 <string name="source_skipped_by_quality">%1$s ನಲ್ಲಿ ಬಳಸಿಲ್ಲ · ಗುಣಮಟ್ಟವನ್ನು %2$s ಗೆ ಹೊಂದಿಸಿದೆ</string>
