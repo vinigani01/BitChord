@@ -411,10 +411,10 @@
 <string name="lossless">ಲಾಸ್‌ಲೆಸ್</string>
 <string name="system">ಸಿಸ್ಟಮ್</string>
 <string name="light">ಬೆಳಕು</string>
-<string name="dark">ಡಾರ್ಕ್</string>
-<string name="full_screen_cover_art_subtitle">ಚೌಕಾಕಾರದ ಸ್ಲೀವ್ ಬದಲಿಗೆ ಕವರ್ ಅನ್ನು ಪ್ಲೇಯರ್‌ನ ಅಂಚುಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ</string>
+<string name="dark">ಕತ್ತಲು</string>
+<string name="full_screen_cover_art_subtitle">ಚೌಕಾಕಾರದ ಬದಲಿಗೆ ಕವರ್ ಅನ್ನು ಪ್ಲೇಯರ್‌ನ ಅಂಚುಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ</string>
 <string name="full_screen_detail_cover">ಪೂರ್ಣ-ಪರದೆಯ ಆಲ್ಬಂ/ಪ್ಲೇಪಟ್ಟಿ ಕವರ್</string>
-<string name="full_screen_detail_cover_subtitle">ಫ್ರೇಮ್ ಮಾಡಿದ ಸ್ಲೀವ್ ಬದಲಿಗೆ ಆಲ್ಬಂ ಮತ್ತು ಪ್ಲೇಪಟ್ಟಿ ಕವರ್‌ಗಳನ್ನು ಪುಟದ ಅಂಚುಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ</string>
+<string name="full_screen_detail_cover_subtitle">ಫ್ರೇಮ್ ಬದಲಿಗೆ ಆಲ್ಬಂ ಮತ್ತು ಪ್ಲೇಪಟ್ಟಿ ಕವರ್‌ಗಳನ್ನು ಪುಟದ ಅಂಚುಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ</string>
 <string name="show_total_duration">ಒಟ್ಟು ಅವಧಿಯನ್ನು ತೋರಿಸಿ</string>
 <string name="show_total_duration_subtitle">ಉಳಿದ ಸಮಯದ ಬದಲಿಗೆ ಹಾಡಿನ ಪೂರ್ಣ ಉದ್ದವನ್ನು ತೋರಿಸುತ್ತದೆ</string>
 <string name="animated_cover_art_subtitle">ಸ್ಥಿರ ಸ್ಲೀವ್ ಬದಲಿಗೆ ಕೆಲವು ಬಿಡುಗಡೆಗಳಲ್ಲಿ ಬರುವ ಲೂಪಿಂಗ್ ವಿಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತದೆ</string>
