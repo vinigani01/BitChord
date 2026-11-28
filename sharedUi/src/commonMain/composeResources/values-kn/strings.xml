@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="analysis_complete">ವಿಶ್ಲೇಷಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
-    <string name="analysis_in_progress">ವಿಶ್ಲೇಷಣೆ ನಡೆಯುತ್ತಿದೆ…</string>
-    <string name="analysis_refining">ವಿಶ್ಲೇಷಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ, ಸುಧಾರಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="analysis_complete">ವಿಶ್ಲೇಷಣೆ ಮುಗಿದಿದೆ</string>
+    <string name="analysis_in_progress">ವಿಶ್ಲೇಷಣೆ ಆಗುತ್ತಿದೆ…</string>
+    <string name="analysis_refining">ವಿಶ್ಲೇಷಣೆ ಮುಗಿದಿದೆ, ಸುಧಾರಿಸುತ್ತಿದೆ…</string>
     <string name="audio_output">ಆಡಿಯೊ ಔಟ್‌ಪುಟ್</string>
     <string name="audio_output_playing">ಇಲ್ಲಿ ಪ್ಲೇ ಆಗುತ್ತಿದೆ</string>
     <string name="audio_pipeline">ಆಡಿಯೊ ಪೈಪ್‌ಲೈನ್</string>
@@ -15,14 +15,14 @@
     <string name="autoplay_on">ಆಟೊಪ್ಲೇ ಆನ್</string>
     <string name="autoplay_queue_description">ಮುಂದೆ ಪ್ಲೇ ಮಾಡಲು ಆಯ್ಕೆ ಮಾಡಿದ ಇದೇ ರೀತಿಯ ಸಂಗೀತ</string>
     <string name="bit_depth">%1$d-ಬಿಟ್</string>
-    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="cancel">ರದ್ದು</string>
     <string name="cast">ಕಾಸ್ಟ್</string>
     <string name="cast_casting">ಕಾಸ್ಟ್ ಆಗುತ್ತಿದೆ</string>
-    <string name="cast_connecting">ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="cast_connecting">ಸಂಪರ್ಕಿಸುತ್ತಿದೆ…</string>
     <string name="cast_row_subtitle">Chromecast ಮತ್ತು Google Cast ಸ್ಪೀಕರ್‌ಗಳು</string>
     <string name="channel_count">%1$d ಚಾನಲ್‌ಗಳು</string>
     <string name="choose_lyrics_provider">ಸಾಹಿತ್ಯದ ಮೂಲವನ್ನು ಆರಿಸಿ</string>
-    <string name="clear">ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="clear">ತೆರವು</string>
     <string name="close_lyrics">ಸಾಹಿತ್ಯ ಮುಚ್ಚಿ</string>
     <string name="data_saver">ಡೇಟಾ ಉಳಿತಾಯ</string>
     <string name="decrease_lyrics_offset">ಸಾಹಿತ್ಯದ ಆಫ್‌ಸೆಟ್ ಕಡಿಮೆ ಮಾಡಿ</string>
@@ -36,7 +36,7 @@
     <string name="instrumental">ವಾದ್ಯ ಸಂಗೀತ</string>
     <string name="like">ಇಷ್ಟ</string>
     <string name="listen_together">ಒಟ್ಟಿಗೆ ಕೇಳಿ</string>
-    <string name="listen_together_away">ದೂರದಲ್ಲಿದ್ದಾರೆ — ಅವರ ಸ್ಥಾನ ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ</string>
+    <string name="listen_together_away">ದೂರದಲ್ಲಿದ್ದಾರೆ — ಅವರ ಸ್ಥಾನ ಕಾಯ್ದಿರಿಸಿದೆ</string>
     <string name="listen_together_host">ಹೋಸ್ಟ್</string>
     <string name="listen_together_in_party">ಪಾರ್ಟಿಯಲ್ಲಿ · %1$s</string>
     <string name="listen_together_jam">%1$s ಅವರ ಜ್ಯಾಮ್</string>
@@ -52,7 +52,7 @@
     <string name="lyrics_by">%1$s ಅವರ ಸಾಹಿತ್ಯ</string>
     <string-array name="lyrics_intro_lines">
         <item>ಬೀಟ್ ಶುರುವಾಗುತ್ತಿದೆ</item>
-        <item>ಹಾಡು ಆರಂಭವಾಗುತ್ತಿದೆ</item>
+        <item>ಹಾಡು ಶುರುವಾಗುತ್ತಿದೆ</item>
         <item>ಸಿದ್ಧತೆ ನಡೆಯುತ್ತಿದೆ</item>
         <item>ಮೂಡ್ ಸಿದ್ಧವಾಗುತ್ತಿದೆ</item>
         <item>ಮೊದಲು ಬೇಸ್, ನಂತರ ಪದಗಳು</item>
@@ -69,7 +69,7 @@
         <item>ಪದಗಳನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ</item>
         <item>ಸಾಲುಗಳನ್ನು ತರಲಾಗುತ್ತಿದೆ</item>
         <item>ಸಾಹಿತ್ಯ ಲೋಡ್ ಆಗುತ್ತಿದೆ</item>
-        <item>ಸಾಹಿತ್ಯದ ಹಾಳೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸಾಹಿತ್ಯದ ಹಾಳೆಯನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದೆ</item>
         <item>ಹಾಡಿನ ಪುಸ್ತಕ ಹುಡುಕಲಾಗುತ್ತಿದೆ</item>
         <item>ಸಾಹಿತ್ಯದ ಸಾಲುಗಳನ್ನು ಜೋಡಿಸಲಾಗುತ್ತಿದೆ</item>
         <item>ಪದಗಳು ಬರಲಿವೆ</item>
@@ -83,7 +83,7 @@
     <string name="lyrics_offset_description">ಧನಾತ್ಮಕ ಮೌಲ್ಯಗಳು ಸಾಹಿತ್ಯವನ್ನು ತಡವಾಗಿ ತೋರಿಸುತ್ತವೆ</string>
     <string name="lyrics_offset_reset">ಮರುಹೊಂದಿಸಿ</string>
     <string name="lyrics_provider_current">ಪ್ರಸ್ತುತ ಮೂಲ</string>
-    <string name="lyrics_provider_fetching">ಸಾಹಿತ್ಯವನ್ನು ತರಲಾಗುತ್ತಿದೆ…</string>
+    <string name="lyrics_provider_fetching">ಸಾಹಿತ್ಯ ತರಲಾಗುತ್ತಿದೆ…</string>
     <string name="lyrics_provider_found">ಸಾಹಿತ್ಯ ಸಿಕ್ಕಿದೆ · ಬಳಸಲು ತಟ್ಟಿ</string>
     <string name="lyrics_provider_not_fetched">ತರಿಸಲು ತಟ್ಟಿ</string>
     <string name="lyrics_provider_not_found">ಸಾಹಿತ್ಯ ಸಿಗಲಿಲ್ಲ</string>
@@ -94,3 +94,119 @@
     <string name="lyrics_translated_to">%1$s ಗೆ ಅನುವಾದಿಸಲಾಗಿದೆ</string>
     <string name="lyrics_translation_unavailable">ಅನುವಾದ ಈಗ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="medium_quality">ಮಧ್ಯಮ ಗುಣಮಟ್ಟ</string>
+    <string name="mono">ಮೊನೊ</string>
+    <string name="more">ಹೆಚ್ಚು</string>
+    <string name="next_from">ಮುಂದಿನದು: %1$s ನಿಂದ</string>
+    <string name="next_in_queue">ಸರದಿಯಲ್ಲಿ ಮುಂದಿನದು</string>
+    <string name="no_lyrics_for_track">ಈ ಹಾಡಿಗೆ ಸಾಹಿತ್ಯವಿಲ್ಲ</string>
+    <string name="no_lyrics_found">ಸಾಹಿತ್ಯ ಸಿಗಲಿಲ್ಲ</string>
+    <string name="now_playing">ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ</string>
+    <string name="open_lyrics">ಸಾಹಿತ್ಯ</string>
+    <string name="pause">ನಿಲ್ಲಿಸಿ</string>
+    <string name="play">ಪ್ಲೇ</string>
+    <string name="played_by">%1$s ಪ್ಲೇ ಮಾಡಿದ್ದಾರೆ</string>
+    <string name="playing_from">%1$s ನಿಂದ ಪ್ಲೇ ಆಗುತ್ತಿದೆ</string>
+    <string name="playing_radio">%1$s ರೇಡಿಯೋ ಪ್ಲೇ ಆಗುತ್ತಿದೆ</string>
+    <string name="queue">ಸರದಿ</string>
+    <string name="remove_from_liked">ಇಷ್ಟಪಟ್ಟ ಹಾಡುಗಳಿಂದ ತೆಗೆದುಹಾಕಿ</string>
+    <string name="add_to_queue">ಸರದಿಗೆ ಸೇರಿಸಿ</string>
+    <string name="remove_from_queue">ಸರದಿಯಿಂದ ತೆಗೆದುಹಾಕಿ</string>
+    <string name="repeat_all">ಎಲ್ಲಾ ಪುನರಾವರ್ತಿಸಿ</string>
+    <string name="repeat_off">ಪುನರಾವರ್ತನೆ ಆಫ್</string>
+    <string name="repeat_one">ಒಂದು ಹಾಡನ್ನು ಪುನರಾವರ್ತಿಸಿ</string>
+    <string name="romanize_lyrics">ಸಾಹಿತ್ಯವನ್ನು ರೋಮನೀಕೃತ ರೂಪದಲ್ಲಿ ತೋರಿಸಿ</string>
+    <string name="romanizing_lyrics">ಸಾಹಿತ್ಯವನ್ನು ರೋಮನೀಕೃತ ರೂಪಕ್ಕೆ ಬದಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="show_original_lyrics">ಮೂಲ ಸಾಹಿತ್ಯ ತೋರಿಸಿ</string>
+    <string name="shuffle_off">ಷಫಲ್ ಆಫ್</string>
+    <string name="shuffle_on">ಷಫಲ್ ಆನ್</string>
+    <string name="stereo">ಸ್ಟೀರಿಯೋ</string>
+    <string name="translate_lyrics">ಸಾಹಿತ್ಯವನ್ನು ಅನುವಾದಿಸಿ</string>
+    <string name="translating_lyrics_to">%1$s ಗೆ ಅನುವಾದಿಸುತ್ತಿದೆ…</string>
+    <string name="up_next">ಮುಂದೆ ಪ್ಲೇ ಆಗುವುದು</string>
+    <string name="upgrading_quality">ಗುಣಮಟ್ಟ ಅಪ್‌ಗ್ರೇಡ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="waiting">ಕಾಯುತ್ತಿದೆ</string>
+    <string name="widget_next">ಮುಂದೆ</string>
+    <string name="widget_previous">ಹಿಂದೆ</string>
+    <string name="wired_headphones">ವೈರ್ಡ್ ಹೆಡ್‌ಫೋನ್‌ಗಳು</string>
+    <string name="usb_audio">USB ಆಡಿಯೊ</string>
+    <string name="hdmi_output">HDMI ಔಟ್‌ಪುಟ್</string>
+    <string name="personal_phone">%1$s ಅವರ ಫೋನ್</string>
+    <string name="this_phone">ಈ ಫೋನ್</string>
+    <string name="albums">ಆಲ್ಬಂಗಳು</string>
+    <string name="artists">ಕಲಾವಿದರು</string>
+    <string name="card_plays_format">%1$s ಬಾರಿ ಪ್ಲೇ ಆಗಿದೆ</string>
+    <string name="card_songs_format">%1$s ಹಾಡುಗಳು</string>
+    <string name="card_views_format">%1$s ವೀಕ್ಷಣೆಗಳು</string>
+    <string name="clear_search">ಹುಡುಕಾಟ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="downloaded">ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ</string>
+    <string name="explore">ಅನ್ವೇಷಿಸಿ</string>
+    <string name="library">ಹಾಡುಗಳ ಸಂಗ್ರಹ</string>
+    <string name="library_sign_in_description">ನಿಮ್ಮ ಇಷ್ಟಪಟ್ಟ ಹಾಡುಗಳು, ಪ್ಲೇಪಟ್ಟಿಗಳು ಮತ್ತು YouTube Music ಇತಿಹಾಸವನ್ನು ನೋಡಲು ನಿಮ್ಮ Google ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</string>
+    <string name="new_playlist">ಹೊಸ ಪ್ಲೇಪಟ್ಟಿ</string>
+    <string name="on_device">ಸಾಧನದಲ್ಲಿ</string>
+    <string name="personalized_recommendations">ನಿಮಗಾಗಿ ವೈಯಕ್ತಿಕ ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="pinned">ಪಿನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="play_next">ಮುಂದೆ ಪ್ಲೇ ಮಾಡಿ</string>
+    <string name="playlist">ಪ್ಲೇಪಟ್ಟಿ</string>
+    <string name="playlist_action">ಪ್ಲೇಪಟ್ಟಿ</string>
+    <string name="playlists">ಪ್ಲೇಪಟ್ಟಿಗಳು</string>
+    <string name="recent_search_edit">“%1$s” ತಿದ್ದಿ</string>
+    <string name="recent_search_remove">ಇತ್ತೀಚಿನ ಹುಡುಕಾಟಗಳಿಂದ “%1$s” ತೆಗೆದುಹಾಕಿ</string>
+    <string name="recent_searches">ಇತ್ತೀಚಿನ ಹುಡುಕಾಟಗಳು</string>
+    <string name="replay_subtitle">ನಿಮ್ಮ ಟಾಪ್ ಹಾಡುಗಳು, ಕಲಾವಿದರು, ಆಲ್ಬಂಗಳು ಮತ್ತು ಪ್ರಕಾರಗಳು</string>
+    <string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="saved_to_youtube_music">YouTube Music ಗೆ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="search">ಹುಡುಕಿ</string>
+    <string name="search_empty">YouTube Music ನಲ್ಲಿ ಲಕ್ಷಾಂತರ ಹಾಡುಗಳನ್ನು ಹುಡುಕಿ.</string>
+    <string name="search_hint">ಕಲಾವಿದರು, ಹಾಡುಗಳು, ಸಾಹಿತ್ಯ ಮತ್ತು ಇನ್ನಷ್ಟು</string>
+    <string name="search_library_empty">ನಿಮ್ಮ ಸ್ಥಳೀಯ ಸಂಗೀತ ಫೋಲ್ಡರ್‌ನಲ್ಲಿರುವ ಹಾಡುಗಳನ್ನು ಹುಡುಕಿ.</string>
+    <string name="search_library_hint">ಹಾಡುಗಳು, ಕಲಾವಿದರು ಮತ್ತು ಆಲ್ಬಂಗಳು</string>
+    <string name="search_library_no_results">ಸ್ಥಳೀಯ ಸಂಗೀತದಲ್ಲಿ “%1$s” ಗೆ ಹೊಂದುವ ಫಲಿತಾಂಶಗಳಿಲ್ಲ.</string>
+    <string name="selected">ಆರಿಸಿದೆ</string>
+    <string name="share">ಹಂಚಿ</string>
+    <string name="shelf_artists_on_the_rise">ಬೆಳೆಯುತ್ತಿರುವ ಕಲಾವಿದರು</string>
+    <string name="shelf_chart">ಚಾರ್ಟ್</string>
+    <string name="shelf_charts">ಚಾರ್ಟ್‌ಗಳು</string>
+    <string name="shelf_concerts">ಕನ್ಸರ್ಟ್‌ಗಳು</string>
+    <string name="shelf_featured_playlists_for_you">ನಿಮಗಾಗಿ ಆಯ್ದ ಪ್ಲೇಪಟ್ಟಿಗಳು</string>
+    <string name="shelf_for_you">ನಿಮಗಾಗಿ</string>
+    <string name="shelf_forgotten_favorites">ಮರೆತ ನೆಚ್ಚಿನವು</string>
+    <string name="shelf_from_the_community">ಸಮುದಾಯದಿಂದ</string>
+    <string name="shelf_from_your_library">ನಿಮ್ಮ ಹಾಡುಗಳ ಸಂಗ್ರಹದಿಂದ</string>
+    <string name="shelf_hits_today">ಇಂದಿನ ಹಿಟ್ ಹಾಡುಗಳು</string>
+    <string name="shelf_listen_again">ಮತ್ತೆ ಕೇಳಿ</string>
+    <string name="shelf_mixed_for_you">ನಿಮಗಾಗಿ ಮಿಕ್ಸ್</string>
+    <string name="shelf_new_releases">ಹೊಸ ಬಿಡುಗಡೆಗಳು</string>
+    <string name="shelf_quick_picks">ತ್ವರಿತ ಆಯ್ಕೆಗಳು</string>
+    <string name="shelf_recents">ಇತ್ತೀಚಿನವು</string>
+    <string name="shelf_recommended_music_videos">ಶಿಫಾರಸು ಮಾಡಿದ ಸಂಗೀತ ವಿಡಿಯೊಗಳು</string>
+    <string name="shelf_shorts">Shorts</string>
+    <string name="shelf_similar_to">%1$s ಹೋಲುವವು</string>
+    <string name="shelf_single">ಸಿಂಗಲ್</string>
+    <string name="shelf_song_item">ಹಾಡು</string>
+    <string name="shelf_top_music_videos">ಟಾಪ್ ಸಂಗೀತ ವಿಡಿಯೊಗಳು</string>
+    <string name="shelf_top_tunes_right_now">ಈಗಿನ ಟ್ರೆಂಡಿಂಗ್ ಹಾಡುಗಳು</string>
+    <string name="shelf_trending">ಟ್ರೆಂಡಿಂಗ್</string>
+    <string name="shelf_trending_community_playlists">ಟ್ರೆಂಡಿಂಗ್ ಸಮುದಾಯ ಪ್ಲೇಪಟ್ಟಿಗಳು</string>
+    <string name="shelf_youtube_charts">YouTube ಚಾರ್ಟ್‌ಗಳು</string>
+    <string name="show_all">ಎಲ್ಲಾ ತೋರಿಸಿ</string>
+    <string name="sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="sign_in_youtube_music">YouTube Music ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="subscriptions">ಚಂದಾದಾರಿಕೆಗಳು</string>
+    <string name="your_replay">ನಿಮ್ಮ Replay</string>
+    <string name="your_listening_experience">ನಿಮ್ಮ ಆಲಿಸುವ ಅನುಭವ</string>
+    <string name="default_replay_holder">BitChord ಕೇಳುಗ</string>
+    <string name="member_since">ಸದಸ್ಯರಾದ ದಿನಾಂಕ</string>
+    <string name="import_spotify">Spotify ನಿಂದ ಆಮದಿಸಿ</string>
+    <string name="import_spotify_subtitle">ಪ್ಲೇಪಟ್ಟಿ ಲಿಂಕ್‌ನಿಂದ</string>
+    <string name="mixes_yours">ನಿಮ್ಮ ಮಿಕ್ಸ್</string>
+    <string name="mixes_none">ಯಾವುದೇ ಮಿಕ್ಸ್‌ಗಳಿಲ್ಲ. ಹಾಡು ಕೇಳುತ್ತಿರಿ, YouTube Music ನಿಮಗಾಗಿ ಮಿಕ್ಸ್‌ಗಳನ್ನು ರಚಿಸುತ್ತದೆ.</string>
+    <string name="queue_selected_count">%1$d ಆರಿಸಿದೆ</string>
+    <string name="queue_select_all">ಎಲ್ಲಾ ಆರಿಸಿ</string>
+    <string name="queue_select">ಆರಿಸಿ</string>
+    <string name="queue_close_selection">ಆಯ್ಕೆ ಮೋಡ್ ಮುಚ್ಚಿ</string>
+    <string name="queue_add_to_playlist">ಪ್ಲೇಪಟ್ಟಿ</string>
+    <string name="queue_download">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="queue_selection_remove">ತೆಗೆದುಹಾಕಿ</string>
+    <string name="queue_add_all_to_playlist">ಎಲ್ಲವನ್ನೂ ಪ್ಲೇಪಟ್ಟಿಗೆ ಸೇರಿಸಿ</string>
+</resources>
