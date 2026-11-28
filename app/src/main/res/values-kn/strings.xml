@@ -1046,7 +1046,7 @@
 <string name="listen_together_in_sync">ಸಿಂಕ್ ಆಗಿದೆ · %1$d ms ರೌಂಡ್ ಟ್ರಿಪ್</string>
 <string name="listen_together_custom_server_dialog_title">ಕಸ್ಟಮ್ ಸರ್ವರ್‌ನಲ್ಲಿ ಪಾರ್ಟಿಗೆ ಸೇರುವುದೇ?</string>
 <string name="listen_together_custom_server_dialog_message">ಈ ಪಾರ್ಟಿಯನ್ನು ಬಾಹ್ಯ ಸರ್ವರ್‌ನಲ್ಲಿ ಹೋಸ್ಟ್ ಮಾಡಲಾಗಿದೆ:\n\n%1$s\n\nನಿಮ್ಮ ಪಾರ್ಟಿ ಸರ್ವರ್ ಅನ್ನು ಬದಲಾಯಿಸಿ %2$s ಪಾರ್ಟಿಗೆ ಸೇರಲು ಬಯಸುವಿರಾ?</string>
-<string name="listen_together_custom_server_switch_and_join">ಬದಲಾಯಿಸಿ & ಸೇರಿ</string>
+<string name="listen_together_custom_server_switch_and_join">ಬದಲಾಯಿಸಿ &amp; ಸೇರಿ</string>
 <string name="listen_together_official_server_dialog_title">ಅಧಿಕೃತ ಸರ್ವರ್‌ಗೆ ಬದಲಾಯಿಸುವುದೇ?</string>
 <string name="listen_together_official_server_dialog_message">ಈ ಪಾರ್ಟಿಯನ್ನು ಅಧಿಕೃತ BitChord ಸರ್ವರ್‌ನಲ್ಲಿ ಹೋಸ್ಟ್ ಮಾಡಲಾಗಿದೆ.\n\nಅಧಿಕೃತ ಸರ್ವರ್‌ಗೆ ಹಿಂತಿರುಗಿ %1$s ಪಾರ್ಟಿಗೆ ಸೇರಲು ಬಯಸುವಿರಾ?</string>
 <string name="listen_together_switch_failed_stayed_in_party">ಪಾರ್ಟಿಗೆ ಸೇರಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ: %1$s. %2$s ಪಾರ್ಟಿಯಲ್ಲಿಯೇ ಉಳಿಯಲಾಗಿದೆ.</string>
@@ -1147,11 +1147,11 @@
 <string name="shelf_romance">ಪ್ರೇಮ</string>
 <string name="shelf_sad">ದುಃಖ</string>
 <string name="shelf_100_on_repeat">100% ಪುನರಾವರ್ತನೆ</string>
-<string name="shelf_new_albums_singles">ಹೊಸ ಆಲ್ಬಂ‌ & ಸಿಂಗಲ್‌ಗಳು</string>
+<string name="shelf_new_albums_singles">ಹೊಸ ಆಲ್ಬಂ‌ &amp; ಸಿಂಗಲ್‌ಗಳು</string>
 <string name="shelf_hits_today">ಇಂದಿನ ಹಿಟ್‌ಗಳು</string>
-<string name="shelf_artists_on_the_rise">ಉದಯೋನ್ಮುಖ ಕಲಾವಿದರು</string>
+<string name="shelf_artists_on_the_rise">ಬೆಳೆಯುತ್ತಿರುವ ಕಲಾವಿದರು</string>
 <string name="shelf_top_tunes_right_now">ಈಗಿನ ಟಾಪ್ ಟ್ಯೂನ್‌ಗಳು</string>
-<string name="shelf_concerts">ಸಂಗೀತ ಕಚೇರಿಗಳು</string>
+<string name="shelf_concerts">ಸಂಗೀತ ಕಂಸರ್ಟ್</string>
 <string name="shelf_shorts">ಶಾರ್ಟ್ಸ್</string>
 <string name="shelf_single">ಸಿಂಗಲ್</string>
 <string name="shelf_chart">ಚಾರ್ಟ್</string>
@@ -1162,7 +1162,7 @@
 <string name="shelf_recents">ಇತ್ತೀಚಿನವು</string>
 <string name="subscriptions">ಚಂದಾದಾರಿಕೆ</string>
 <string name="card_views_format">%1$s ವೀಕ್ಷಣೆ</string>
-<string name="card_plays_format">%1$s ಪ್ಲೇಗಳು</string>
+<string name="card_plays_format">%1$s ಪ್ಲೇ</string>
 <string name="card_songs_format">%1$s ಹಾಡುಗಳು</string>
 <string name="source_needs_lossless_output">ಲಾಸ್‌ಲೆಸ್ ಔಟ್‌ಪುಟ್ ಅಗತ್ಯವಿದೆ · ಲಾಸ್‌ಲೆಸ್ ಬೆಂಬಲಿತ ಸಾಧನವನ್ನು ಬಳಸಿ</string>
 <string name="source_needs_lossless_bt_codec">ಲಾಸ್‌ಲೆಸ್ ಔಟ್‌ಪುಟ್ ಅಗತ್ಯವಿದೆ · ಬ್ಲೂಟೂತ್ %1$s ನಲ್ಲಿದೆ; ಲಾಸ್‌ಲೆಸ್ ಬೆಂಬಲಿತ ಸಾಧನವನ್ನು ಬಳಸಿ</string>
@@ -1265,7 +1265,7 @@
 <string name="wear_os_failed">ಅದು ಕೆಲಸ ಮಾಡಲಿಲ್ಲ (%1$s). ಕೋಡ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
 <string name="wear_os_unsupported">ವಾಚ್‌ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಈ ಫೋನ್‌ನಲ್ಲಿ Android 11 ಅಥವಾ ನಂತರದ್ದು ಅಗತ್ಯವಿದೆ.</string>
 <string name="wear_os_code_hint">ಜೋಡಿಸುವ ಕೋಡ್</string>
-<string name="wear_os_done">ಮುಗಿದಿದೆ</string>
+<string name="wear_os_done">ಆಯ್ತು</string>
 <string name="signed_by">%1$s ಅವರಿಂದ ಸಹಿ ಮಾಡಲಾಗಿದೆ</string>
 <string name="find_your_mood">ನಿಮ್ಮ ಮೂಡ್ ಹುಡುಕಿ</string>
 <string name="no_audio_version">ಈ ವಿಡಿಯೊಗೆ ಯಾವುದೇ ಆಡಿಯೊ ಆವೃತ್ತಿ ಕಂಡುಬಂದಿಲ್ಲ</string>
